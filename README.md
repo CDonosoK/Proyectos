@@ -12,4 +12,4 @@ Proyecto que tiene como objetivo final realizar un robot cuadrúpedo con la form
 ### Importante: 
 Todos los archivos que suba serán del primer prototipo que realice, estos pueden cambiar con el tiempo, aunque no necesariamente quedar actualizados en el repositorio.
 ##### By Clemente Donoso Krauss
-**_La innovación distingue a los líderes de los seguidores_**
+**_La mitad de lo que separa a los emprendedores exitosos de los que no triunfan es la perseverancia_**
