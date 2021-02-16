@@ -21,5 +21,5 @@ Proyecto que tiene como objetivo realizar un objeto que se adapte a las cortinas
 # Importante: 
 Todos los archivos que suba serán del primer prototipo que realice, estos pueden cambiar con el tiempo, aunque no necesariamente quedar actualizados en el repositorio.
 Si me quieres ayudar a que siga construyendo robots, y traer más y mejores diseños aquí está mi paypal y cualquier aporte será más que agradecido: **paypal.me/cdonosok**
-##### By Clemente Donoso Krauss [clemente.donosok@gmail.com]
+##### By Clemente Donoso Krauss [donosoindustries@gmail.com]
 **_La mitad de lo que separa a los emprendedores exitosos de los que no triunfan es la perseverancia_**
