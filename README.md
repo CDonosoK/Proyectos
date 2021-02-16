@@ -9,7 +9,7 @@ En espera de la nueva jetson nano y el sensor LIDAR para poder realizar navegaci
 ## Perro Robótico:
 Proyecto que tiene como objetivo final realizar un robot cuadrúpedo con la forma de un perro capaz de seguir a una persona y super obstáculos, además servir como compañia.
 
-# Importante: 
+### Importante: 
 Todos los archivos que suba serán del primer prototipo que realice, estos pueden cambiar con el tiempo, aunque no necesariamente quedar actualizados en el repositorio.
 ##### By Clemente Donoso Krauss
 **_La innovación distingue a los líderes de los seguidores_**
