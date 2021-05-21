@@ -5,7 +5,6 @@ Si quieren estar atentos a nuevos proyectos o realizar preguntas les dejo mi tik
 
 ## Wall-E [En pausa ❎]:
 Proyecto que buscar crear un robot de compañía, tanto para cuidar adultos mayores como también realizar labores de seguridad.
-En espera de la nueva jetson nano y el sensor LIDAR para poder realizar navegación y mapeo de habitaciones.
 
 ## Perro Robótico [En pausa ❎]:
 Proyecto que tiene como objetivo final realizar un robot cuadrúpedo con la forma de un perro capaz de seguir a una persona y super obstáculos, además servir como compañía.
@@ -23,7 +22,10 @@ Proyecto que tiene como objetivo realizar un huerto inteligente, el cual monitor
 Proyecto que tiene como objetivo realizar un objeto que se adapte a las cortinas y sea programable para que a una hora determinada abra las cortinas y a otra hora las cierre.
 
 ## DoMa [Realizado ☑]:
-Proyecto que tiene como objetivo la creación de un asistente virtual a bajo costo. Actualmente la versión 2.0 se encuentra en desarrollo.
+Proyecto que tiene como objetivo la creación de un asistente virtual a bajo costo. 
+
+## DoMa 2.0 [Pendiente ❎]:
+Proyecto que tiene como objetivo mejorar las capacidades de DoMa integrando Inteligencia Artificial y Reconocimiento de Lenguaje, con la intención de crear un asistente virtual de bajo costo. 
 
 
 # Importante: 
